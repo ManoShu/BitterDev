@@ -1,0 +1,21 @@
+[submodule "kicad/pcb/libraries/acheron_Symbols"]
+	path = kicad/pcb/libraries/acheron_Symbols
+	url = https://github.com/AcheronProject/acheron_Symbols.git
+[submodule "kicad/pcb/libraries/acheron_Components.pretty"]
+	path = kicad/pcb/libraries/acheron_Components.pretty
+	url = https://github.com/AcheronProject/acheron_Components.pretty.git
+[submodule "kicad/pcb/libraries/acheron_Connectors.pretty"]
+	path = kicad/pcb/libraries/acheron_Connectors.pretty
+	url = https://github.com/AcheronProject/acheron_Connectors.pretty.git
+[submodule "kicad/pcb/libraries/acheron_Hardware.pretty"]
+	path = kicad/pcb/libraries/acheron_Hardware.pretty
+	url = https://github.com/AcheronProject/acheron_Hardware.pretty.git
+[submodule "kicad/pcb/libraries/acheron_MX_soldermask.pretty"]
+	path = kicad/pcb/libraries/acheron_MX_soldermask.pretty
+	url = https://github.com/AcheronProject/acheron_MX_soldermask.pretty.git
+[submodule "kicad/pcb/libraries/keebio-components"]
+	path = kicad/pcb/libraries/keebio-components
+	url = https://github.com/keebio/keebio-components.git
+[submodule "kicad/pcb/libraries/Keebio-Parts.pretty"]
+	path = kicad/pcb/libraries/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
